@@ -1,0 +1,18 @@
+# We are using a more recent commit for exception handling. Upgrade
+# to next release after 3.1.4, when available
+
+github "duckduckgo/Kingfisher" ~> 3.10.3
+
+github "duckduckgo/Device.swift" ~> 1.1 
+
+github "duckduckgo/Toast-Swift" ~> 2.0.0
+
+github "duckduckgo/Alamofire" ~>  4.4.0
+
+github "duckduckgo/OHHTTPStubs" ~> 6.0.0
+
+github "duckduckgo/SimulatorStatusMagic" "tags/1.9.5"
+
+github "mkoehnke/WKZombie"
+
+github "dani-gavrilov/GDPerformanceView-Swift" ~> 1.3.2
